@@ -126,7 +126,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">PT. ARORA BAWANA GEMILANG</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-3\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ARORA_BAWANA_GEMILANG.html#features1-5\">VISI MISI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ARORA_BAWANA_GEMILANG.html#features1-9\">NEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ARORA_BAWANA_GEMILANG.html#form1-c\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"#top\">HOME</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box5-3\">ABOUT US</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ARORA_BAWANA_GEMILANG.html#features1-5\">VISI MISI</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ARORA_BAWANA_GEMILANG.html#header3-7\">NEWS</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"ARORA_BAWANA_GEMILANG.html#form1-c\">CONTACT US</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_name": "header1",
@@ -651,7 +651,7 @@
           },
           "text1": "<strong>Address</strong><br>Royal Palace Blok C-26<br>Jl. Prof. Dr. Soepomo 178 A Tebet Jakarta 12870 – Indonesia<br>",
           "text2": "<strong>Contacts</strong><br>\nEmail : admin@abg-intl.co&nbsp;<br>Phone : +62 21 28541015<br>",
-          "text3": "<p><strong>Links</strong><br>\n<a href=\"bawana-intl.com\">bawana-intl.com</a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><br><br></p>"
+          "text3": "<p><strong>Links</strong><br>\n<a href=\"https://triharianto.github.io/folder/ARORA_BAWANA_GEMILANG.html\">Arora Bawana Gemilang</a><a href=\"bawana-intl.com\"></a><a class=\"text-primary\" href=\"https://mobirise.com/\"></a><br><br><br></p>"
         }
       ]
     }
